@@ -1,5 +1,6 @@
 # Koreader-patches
 In this repo I will add my koreader patches
+
 [2-confirm-highlight-note-delete](https://github.com/mazenoss/Koreader-patches/blob/main/2-confirm-highlight-note-delete.lua)
 
 Drop it in koreader/patches/ (create that folder if it's missing — on Kobo that's .adds/koreader/patches/), then fully restart KOReader.
