@@ -9,7 +9,7 @@ Trash-can icon on a highlight, and "Delete highlight" in the note popup → both
 "Delete note" in that same popup → asks "Are you sure you want to delete this note?"
 Aborting an in-progress selection extension stays silent — that's a not-yet-saved temp highlight, not a real delete
 
-[2-crop-odd-even](https://github.com/mazenoss/Koreader-patches/blob/main/[2-crop-odd-even.lua)
+[2-crop-odd-even](https://github.com/mazenoss/Koreader-patches/blob/main/2-crop-odd-even.lua)
 
 Here’s a user patch that keeps separate crop boxes for odd and even pages.
 How it works
